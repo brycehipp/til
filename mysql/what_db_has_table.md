@@ -1,6 +1,6 @@
 # Find which database has a table
 
-```mysql
+```sql
 set @tableName = 'table_name_here';
 
 select  table_schema
