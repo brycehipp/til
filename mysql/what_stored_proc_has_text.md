@@ -1,6 +1,6 @@
 # Find which stored procedure contains text
 
-```mysql
+```sql
 set @text = '%text here%';
 
 select  *
